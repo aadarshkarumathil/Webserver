@@ -16,6 +16,8 @@ To execute nodejs files the file has to be put inside the nodefiles directory.
 Logs good,bad and exception requests
 Has a config files with all the mentioned params.
 
+Webapp1 folder has a sample webapp which can be used to check the webserver.
+
 Sample app has the following and it can be run on the webserver. 
 
 Allows login and differentiates between users
