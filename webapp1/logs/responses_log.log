@@ -1,0 +1,13 @@
+Logging at time 2017-02-26 23:18:15('127.0.0.1', 47408) has requested  which has a response code : 200
+Logging at time 2017-02-26 23:18:15('127.0.0.1', 47410) has requested main.css which has a response code : 200
+Logging at time 2017-02-27 01:13:48('127.0.0.1', 48434) has requested  which has a response code : 200
+Logging at time 2017-02-27 01:13:48('127.0.0.1', 48436) has requested main.css which has a response code : 200
+Logging at time 2017-02-27 01:13:50('127.0.0.1', 48438) has requested home.php which has a response code : 200
+Logging at time 2017-02-27 01:13:50('127.0.0.1', 48440) has requested main.css which has a response code : 200
+Logging at time 2017-02-27 01:13:51('127.0.0.1', 48442) has requested help.php which has a response code : 200
+Logging at time 2017-02-27 01:13:51('127.0.0.1', 48444) has requested main.css which has a response code : 200
+Logging at time 2017-02-27 01:13:52('127.0.0.1', 48446) has requested about.php which has a response code : 200
+Logging at time 2017-02-27 01:13:52('127.0.0.1', 48448) has requested main.css which has a response code : 200
+Logging at time 2017-02-27 01:13:52('127.0.0.1', 48450) has requested me.jpg which has a response code : 200
+Logging at time 2017-02-27 01:13:53('127.0.0.1', 48452) has requested login.php which has a response code : 200
+Logging at time 2017-02-27 01:13:53('127.0.0.1', 48454) has requested main.css which has a response code : 200
