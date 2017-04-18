@@ -15,3 +15,11 @@ Returns response codes 200,400,401,403,404,411,500,505 Executes server-side
 To execute nodejs files the file has to be put inside the nodefiles directory. 
 Logs good,bad and exception requests
 Has a config files with all the mentioned params.
+
+Sample app has the following and it can be run on the webserver. 
+
+Allows login and differentiates between users
+Used GET and POST
+Displayed information retrieved from the database in the home page Has multiple forms for submitting data
+Provides a logout feature.
+can handle css,js and various other client  to enhance
